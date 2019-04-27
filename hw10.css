@@ -1,0 +1,24 @@
+
+td, th{
+    border-style: solid;
+    border-color: black;
+    border-width: 1px; 
+}
+table{
+    border-style: solid;
+    position:absolute;
+    left:25%;
+    top:50px;
+    border-collapse:collapse;
+}
+section{
+    position:absolute;
+    left:25%;
+    top:200px;
+    
+}
+#dive{
+    position:absolute;
+    left:25%;
+    top:5px;
+}
